@@ -30,7 +30,7 @@ width: 970px;
 }
 .pagina1{
    background-color: greenyellow;
-   margin: 60px 0px 0px 80px;
+   margin: 80px 60px 80px 60px;
    padding: 30px 0px 25px 0px;
    width: 895px;
    height: 950px;
@@ -40,12 +40,14 @@ width: 970px;
     }
 .pagina1 h1,.pagina1 h2,.pagina1 h3{
     width: 835px;
+    
 }
 .pagina1 h1{
     background-color:royalblue;
     margin: 30px 15px 20px 40px;
+    padding: 30px 0px 10px 0px;
     height: 260px;
-    width: 835px;
+    
     
 }
 
@@ -53,19 +55,22 @@ width: 970px;
     background-color: gray;
     margin: 30px 15px 20px 20px;
     height: 100px;
-    width: 800px;
+    
+    
 }
 
 
 .pagina1 h1 div{
     background-color: purple;
     margin: 20px 15px 10px 20px;
-    height: 200px;
-    width: 800px;
+    height: 100px;
+ 
+    
 }
 .pagina1 h2{
     background-color: white;
-    margin: 0px 30px 20px 30px;
+    margin: 15px 30px 20px 30px;
+    padding: 30px 0px 20px 0px;
     height: 350px;
 
 }
@@ -76,12 +81,13 @@ width: 970px;
 }
 .pagina1 h3{
     background-color: green;
-    margin: 0px 15px 25px 25px;
+    margin: 20px 15px 25px 25px;
     height: 250px;
 }
 .pagina2{
     background-color: black;
-    margin: 40px 0px 0px 30px;
+    margin: 40px 30px 40px 30px;
+    padding: 10px 0px 10px 0px;
     width: 980px;
     height: 830px;
 }
